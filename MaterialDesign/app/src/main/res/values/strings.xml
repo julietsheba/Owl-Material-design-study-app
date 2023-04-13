@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="title_activity_loginactivity">LoginActivity</string>
+    <string name="title_activity_mainactivity">RegisterActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_main5">MainActivity5</string>
+
+<!--One topic-->
+<string name="course1">Arts &amp; Craft</string>
+<string name="topic1">The Basics of Woodturning</string>
+<string name="subheading1_1">What Is WoodTurning</string>
+<string name="text1_1">Woodturning is a form of woodworking involving a lathe. With other kinds of woodworking, the wood is stationary and the tool moves to create cuts.\n\nIn woodturning, the lathe turns the wood on its axis at high revolutions per minute while relatively stationary special cutting tools on a tool rest do the work.\nA wood lathe allows woodturners to create all kinds of objects, from bowls to stair railings to chess pieces to musical instruments.</string>
+
+<string name="subheading1_2">History of Woodturning</string>
+<string name="text1_2">The art on monuments in ancient Egypt offers the first recorded instances of spindle turning. These illustrations showed a strap a helper used to rotate the lathe while another worker cut the wood.\n\n
+    The ancient Romans, Chinese, Persians and Arabs had their own variations of the lathe. Early lathe workers would sometimes hold cutting tools with their bare feet while powering the lathe with their hands.\n\n
+
+In the 19th and early 20th centuries, woodturners in England employed the master-apprentice system in turning shops, where they crafted cups and bowls as well as detailed tables, chairs and staircases. In Germany and Russia, woodturning was concentrated in villages that specialized in turning toys.
+
+\n\nIn the U.S., woodturning was part of the industrial arts curriculum in public schools, often a prerequisite for furniture-building classes. In the 1970s, interest in hobby woodturning in the English-speaking world flourished, reviving all things woodturning.</string>
+
+
+<!--Two topic-->
+<string name="course2">Painting</string>
+<string name="topic2">An introduction to oil painting</string>
+<string name="subheading2_1">What is oil paint?</string>
+<string name="text2_1">There are three main categories of oil paints: traditional oils, alkyd oils and water-mixable oils. These are all composed of pigment and binder. The binder encapsulates and protects the pigment, while it also acts as an adhesive by attaching neighbouring particles to each other.</string>
+
+<string name="subheading2_2">What ranges do Winsor &amp; Newton have available?</string>
+<string name="text2_2">We currently have 4 ranges of oil paint to suit a variety of different practices.
+\n\n
+        Winsor &amp; Artists Newton’ Oil Colour range is a traditional oil paint, it provides the widest choice of colours with the highest pigment strength, ensuring the cleanest, brightest colours and best mixes.
+\n\n
+The Winton Oil Colour range is also a traditional oil, but it is formulated to offer dependable quality at an accessible price; it is ideal for first time artists who want to learn the fundamentals of oil painting and perfect for any artist needing to cover a large area or working on an underpainting.
+\n\n
+Griffin Alkyd Fast Drying Oil Colour is also made of pigment in oil, but the oil is polymerised through a chemical reaction and the result is a resin-like product that, when mixed with a suitable solvent, takes on many of the properties of traditional oil but has a much faster drying time. It is helpful for underpainting and can be mixed with traditional oils to accelerate drying as well.
+\n\n
+Artisan Water Mixable Oil Colour is a range of oil colours which can be cleaned up with water instead of solvents, whilst providing all the handling properties of conventional oil colour. The depth of colour, lightfastness, performance and drying times of Artisan allow artists to use this range for all oil colour techniques. It’s also suited to artists working in shared spaces or those who are sensitive to chemicals.</string>
+
+
+<!--Three topic-->
+<string name="course3">Architecture</string>
+<string name="topic3">City Phenomenon between Urban Structure and Composition</string>
+<string name="subheading3_1">Abstract</string>
+<string name="text3_1">Cities are not just a sum of buildings, but especially a set of social relations that their inhabitants develop. Cities are characterized by a wide variety of social groups and lifestyles. An urban composition represents a form of the city in which it gets a formal order, so that the shape of any urban ensemble is not linked to a random phenomenon, but to an intervention mastered and understood as such. For the city, the urban composition represents what the architectural composition represents for a building. This concept regarding the composition is common both to the architecture and to the city. The main property of the composition is that it transforms a possibly dispersed ensemble into a whole, resolving the contradictions that arise when the requirements and conditions of the project are numerous. Spatial forms and urban compositions are built over time, longer than that of architectural composition. On the other hand, “design of the urban environment” is understood by us as a complex formation of public spaces of the city, located on the ground floor level of the city building and ensuring the vital activity of the urban community. This chapter will study the city phenomenon on a large scale.</string>
+
+<string name="subheading3_2">Introduction</string>
+<string name="text3_2">Cities cannot be defined only by their administrative boundaries, and urban policies can no longer target only administrative units at the city level. The importance of multilevel governance has been strongly emphasized by the European Parliament and the Committee of the Regions. This is in full accordance with the conclusions of this report: policies at European, national, regional, and local levels must be correlated with each other. In any urban development and expansion plan, it must be taken into account that natural systems have a limited capacity to respond and adjust to changes produced by man. From the perspective of urban sustainable development, any impact of urban activities on the environment must be minimized. The idea of sustainable urban development was born in the 1970s, as a result of deep concern about a development model that threatened the environment and the vitality of the planet. There is a strong belief that, apart from government programs and the private sector initiative, local communities need to be actively involved in this process. This concept is at the basis of formulating sustainable policies, which try to harmonize the relationship between population, environment, and industrial development. Controlled urban expansion is also known as smart growth. The experience of the states of the European Union shows that metropolitan areas, well managed, reach economic competitiveness quickly (economic policies can effectively attract funds and investors and can energize the construction, services, and tourism sectors), and their future development is sustainable (economic, cultural, social, ecological, and policies are harmonized). Such a project aims at decongesting large cities, establishing unitary architectural development, accessing European funds for regional development, and, thereby, creating civilized living conditions for all inhabitants of metropolitan areas. More than two-thirds of Europe’s population lives in urban areas. Cities are places where problems arise and solutions are found. They represent a fertile ground for science and technology, for culture and innovation, for individual and collective creativity, as well as for mitigating the effects of climate change. However, cities are also places where problems such as unemployment, discrimination, and poverty are concentrated.
+\n\n
+The objective of the Thematic Strategy for the urban environment, adopted in 2006, at European level, “to contribute to a better quality of life through an integrated approach to urban areas,” in conjunction with the effort to contribute to “a higher level of quality of life and social well-being of citizens, by ensuring an environment in which the level of pollution does not generate harmful effects on human health and the environment and by encouraging the sustainable urban development,” defined, for the next years, the priorities, the direction, and the means by which this strategy to be applied. It follows from this strategy that most cities face a common set of basic problems, such as those related to air quality, heavy traffic, high noise levels, low-quality construction, abandoned land, greenhouse gas emissions, non-systematic areas, generation of waste and wastewater, and providing public services to the population. Among the causes of these problems is the increase in the use of resources per inhabitant, the increase in the number of individual households, the demographic changes, and the increase in the number of personal property machines. The solutions must be forward-looking, taking into account aspects of risk prevention, the anticipation of climate change, or the progressive reduction of dependence on fossil fuels. The activities in the urban environment are sources of pollution for all environmental factors. Therefore, they must be controlled and managed to minimize the impact on the environment.
+\n\n
+ What are the five challenges for urban planning theory?
+\n
+Urban planning deals with the design of building groups, settlements, neighborhoods, and in particular public spaces. Urban design can be understood as a term for the visible and creative aspects of urban planning. According to a broader understanding, the concept of urban planning encompasses the totality of planning and construction measures for urban and rural spatial planning aimed at creating the prerequisites for the coexistence of people in an environment appropriate to them in the pursuit of sociopolitical goals. In conclusion, urban design is a product of the collaboration on site of elements of the urban framework, determined functionally within the configuration spatial structure. It can be understood as a term for the visible and creative aspects of urban planning. Traditionally it has been referred to a discipline within urban planning, landscape architecture, or more simultaneously linked to emerging disciplines such as landscape urbanism.</string>
+
+<!--Four topic-->
+<string name="course4">Design</string>
+<string name="topic4">Learning The Basics of Brand Identity</string>
+<string name="subheading4_1">What Is a Brand Identity?
+</string>
+<string name="text4_1">Is it your logo? Your color palette? Your infographic style? It’s all that—and more.
+\n\n
+Branding pro Marty Neumeier defines a brand identity as “the outward expression of a brand, including its trademark, name, communications, and visual appearance.” To us, a brand identity is the sum total of how your brand looks, feels, and speaks to people. (Sometimes that even includes how it sounds, tastes, feels, and even smells.)
+\n\n
+That said, when most people talk about brand identity, they’re referring to a brand’s visual identity. For the purposes of this post, that’s what we’ll be focusing on.</string>
+
+<string name="subheading4_2">Why Do You Need a Brand Identity?</string>
+<string name="text4_2">A strong brand identity is not about making pretty packaging; it’s about communicating your brand story effectively. Design is a powerful tool that can transform how people interact with your brand in three important ways.
+\n\n
+1.Differentiation: How can you stand out in a crowded marketplace? Your brand identity can play a strong role. Whether you want your product to stand out on a shelf, or you want your ads to stand out on Facebook, creating a consistent, cohesive presentation is the secret to success.
+        \n\n
+2.Connection: The more effectively you communicate who you are, the easier it will be for people to engage with you and, ultimately, join your community of lifelong fans.
+        \n\n
+3.Experience: Everything you create reflects your brand. Thus, if you want to create a consistent, cohesive brand experience, you need to present a consistent, cohesive identity. From your website, to your social media, to your sales brochures, a strong identity is the key to elevating your brand experience.
+        \n\n
+Some brands elevate brand identity to an art (think Apple, LEGO, or Levi’s). Some brands make it their entry into the playing field (think Warby Parker or Casper). Others struggle because they don’t know who they are or don’t know how to communicate it effectively. (The truth is too many brands fall into this camp.)
+\n\n
+Regardless of where you fall on that spectrum, one thing is certain. If you want to be a competitive and successful company, crafting a strong brand identity is mandatory.
+
+</string>
+<string name="title_activity_login">LoginActivity</string>
+<string name="title_activity_register">RegisterActivity</string>
+<string name="title_activity_main6">MainActivity6</string>
+
+
+</resources>
